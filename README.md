@@ -13,6 +13,7 @@ sudo yabai --install-sa
 Instalação Skhd:
 
 brew install koekeishiya/formulae/skhd
+
 brew services start skhd
 
 ### Error ao Executar Fix:
