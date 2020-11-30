@@ -27,3 +27,11 @@ yabai -m config layout                       bsp
 yabai -m config auto_balance                 on
 
 brew services restart yabai
+
+### Comandos redireciomento de tela:
+
+Option + R 
+
+Control + enter
+### Tamanho De Tela Desejado:
+option + ◀⬇⬆▶
