@@ -34,4 +34,4 @@ Option + R
 
 Control + enter
 ### Tamanho De Tela Desejado:
-option + ◀⬇⬆▶
+option + ←↑↓→
