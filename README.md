@@ -1,9 +1,6 @@
 # MacFun
 Screen Targeting
 
-Modo instalação:
-https://github.com/koekeishiya/yabai
-
 Instalação Yabai:
 
 brew install koekeishiya/formulae/yabai
