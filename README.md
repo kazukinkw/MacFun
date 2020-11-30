@@ -35,3 +35,8 @@ Option + R
 Control + enter
 ### Tamanho De Tela Desejado:
 option + ←↑↓→
+
+
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/54015197/100577757-32db3c80-3324-11eb-87a6-b3dac06ee8d3.gif)
