@@ -2,4 +2,4 @@
 screen targeting
 
 Modo instalaçao: 
-![https://github.com/koekeishiya/yabai]
+![https://img.shields.io/github/followers/koekeishiya?style=social]
