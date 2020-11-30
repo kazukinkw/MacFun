@@ -1,0 +1,34 @@
+## ----------------------------------------
+##	Windows Moving
+## ----------------------------------------
+alt - r                   : yabai -m space --rotate 90
+shift + alt + cmd - left  : yabai -m window --swap west
+shift + alt + cmd - right : yabai -m window --swap east
+shift + alt + cmd - up    : yabai -m window --swap north
+shift + alt + cmd - down  : yabai -m window --swap south
+
+## ----------------------------------------
+##	Windows Focusing
+## ----------------------------------------
+shift + alt - left  : yabai -m window --focus west
+shift + alt - right : yabai -m window --focus east
+shift + alt - up    : yabai -m window --focus north
+shift + alt - down  : yabai -m window --focus south
+
+## ----------------------------------------
+##	Windows Sizing
+## ----------------------------------------
+## ========== Increase Size ==========
+alt - left  : yabai -m window --resize left:-20:0  || yabai -m window --resize right:-20:0
+alt - right : yabai -m window --resize right:20:0  || yabai -m window --resize left:20:0
+alt - up    : yabai -m window --resize top:0:-20   || yabai -m window --resize bottom:0:-20
+alt - down  : yabai -m window --resize bottom:0:20 || yabai -m window --resize top:0:20
+
+## ========== Align in same Size ==========
+shift + alt + cmd - return : yabai -m space --balance
+
+## ========== Toggle Biggest Size ==========
+shift + alt - return : yabai -m window --toggle zoom-fullscreen
+
+## ========== Toggle Small Creturn Size ==========
+ctrl - return : yabai -m window --toggle float; yabai -m window --grid 4:4:1:1:2:2
