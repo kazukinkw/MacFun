@@ -1,5 +1,5 @@
 ## ----------------------------------------
-##	Windows Moving
+##	Windows Moving PyGotPy
 ## ----------------------------------------
 alt - r                   : yabai -m space --rotate 90
 shift + alt + cmd - left  : yabai -m window --swap west
