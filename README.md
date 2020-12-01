@@ -1,41 +1,41 @@
 # MacFun
-•Screen Targeting
+• Screen Targeting
 
-•Instalação Yabai:
+• Instalação Yabai:
 
-•brew install koekeishiya/formulae/yabai
+• brew install koekeishiya/formulae/yabai
 
-•brew services start yabai
+• brew services start yabai
 
 • sudo yabai --install-sa
 
 
-•Instalação Skhd:
+• Instalação Skhd:
 
-•brew install koekeishiya/formulae/skhd
+• brew install koekeishiya/formulae/skhd
 
-•brew services start skhd
+• brew services start skhd
 
 ### Error ao Executar Fix:
-•killall Dock
+• killall Dock
 
-•touch ~/.yabairc
+• touch ~/.yabairc
 
-•chmod +x ~/.yabairc
+• chmod +x ~/.yabairc
 
-•yabai -m config layout                       bsp
+• yabai -m config layout                       bsp
 
-•yabai -m config auto_balance                 on
+• yabai -m config auto_balance                 on
 
-•brew services restart yabai
+• brew services restart yabai
 
 ### Comandos redireciomento de tela:
 
-•Option + R 
+• Option + R 
 
-•Control + enter
+• Control + enter
 ### Tamanho De Tela Desejado:
-•option + ←↑↓→
+• option + ←↑↓→
 
 
 
