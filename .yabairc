@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 ## ----------------------------------------
-##	Base
+##	Base Pytgotpy
 ## ----------------------------------------
 yabai -m config auto_balance        on                                                                                    
 yabai -m config focus_follows_mouse on                                                                                    
